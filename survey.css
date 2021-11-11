@@ -38,6 +38,12 @@ div.sv_qstn_error_top  span.glyphicon-exclamation-sign {
   font-weight: 600 !important;
 }
 
+h4{
+  font-size: 19px !important;
+  padding-bottom: 15px !important;
+  padding-top: 15px !important;
+}
+
 .h1, .h2, h1, h2 {
   margin-top: 38px !important;
 }
@@ -45,6 +51,28 @@ div.sv_qstn_error_top  span.glyphicon-exclamation-sign {
 h1 {
   margin: .67em 0 !important;
 }
+
+.dropDownlist{ 
+  font-size: medium;
+  border: black 2px;
+  color: black;
+  background-color: #f1f1f1;
+  border-style: solid;
+  border-radius: 1px;
+  padding: 10px;
+  position: relative;
+  display: inline-block;
+  overflow:scroll;
+  overflow-x:hidden;
+  max-height: 50px;
+  max-width: 650px;
+ }
+
+
+ .dropDown{
+  position: relative;
+  display: inline-block;
+ }
 
 .h1, h1 {
   font-size: 1.9em !important;
